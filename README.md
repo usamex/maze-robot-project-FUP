@@ -1,0 +1,2 @@
+# Maze Robot Project
+This project is about programming a robot simulator which should simulate/evaluate a written code. Additional to this, we needed to write a genetic algorithm to make the computer write a good evaluated code for the simulator. 
